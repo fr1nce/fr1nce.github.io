@@ -9,9 +9,12 @@ There are a few games made by HoYoverse that are now currently the trend to play
 From here, we are to show you games that are quite popular from HoYoverse.
 
 ```markdown
-GAMES BY HOYOVERSE
+GAMES BY HOYOVERSE:
 
 # Genshin Impact
+(genshin impact pic)
+(![image](https://user-images.githubusercontent.com/99850315/156083742-b5ff46e7-35a3-4e8f-9d08-120c0b71bdab.png)
+
 
 
 

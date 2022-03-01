@@ -12,8 +12,8 @@ From here, we are to show you games that are quite popular from HoYoverse.
 GAMES BY HOYOVERSE:
 
 # Genshin Impact
-(genshin impact pic)
-(![image](https://user-images.githubusercontent.com/99850315/156083742-b5ff46e7-35a3-4e8f-9d08-120c0b71bdab.png)
+(https://user-images.githubusercontent.com/99850315/156083810-001c6d58-4864-462e-8542-647ee162d9b6.png)
+
 
 
 

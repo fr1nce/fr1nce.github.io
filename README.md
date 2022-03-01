@@ -1,12 +1,12 @@
-## MIHOYO
+## HoYoverse Games 
 
-MIHOYO
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+There are a few games made by HoYoverse that are now currently the trend to play these past years. At HoYoverse they are committed to creating immersive virtual world experiences for players around the world. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### HoYoverse was recently changed from miHoYo to its current name now.
+
+From here, we are to show you games that are quite popular from HoYoverse.
 
 ```markdown
 Syntax highlighted code block

@@ -1,5 +1,5 @@
 ## **HoYoverse Games** 
-
+made by: Francezka Gabrielle A. Dait of Gonzalez 9
 
 
 There are a few games made by HoYoverse that are now currently the trend to play these past years. At HoYoverse they are committed to creating immersive virtual world experiences for players around the world. 

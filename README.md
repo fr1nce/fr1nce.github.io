@@ -19,7 +19,8 @@ GAMES BY HOYOVERSE:
 
 # Honkai Impact
 
-![yuh](https://user-images.githubusercontent.com/99850315/156476930-ecc8c75b-ba96-4b27-a66c-94d52fd1a28d.jpg)
+![yuh](https://user-images.githubusercontent.com/99850315/156692219-d4518a94-ecc3-46b2-982f-148dfc7f8451.jpg)
+
 
 
 

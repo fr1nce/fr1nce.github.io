@@ -10,14 +10,14 @@ From here, we are to show you games that are quite popular from HoYoverse.
 
 GAMES BY HOYOVERSE:
 
-# Genshin Impact
+# **Genshin Impact**
 
 ![1500x500](https://user-images.githubusercontent.com/99850315/156476296-ee3a7daf-846a-4211-8d62-cda2df2f8835.jpg)
-Genshin impact is an open-world action role-play game that allows players to control one of four characters in a party. During combat, switching characters can be done quickly. Co-op with friends is allowed but you can only play with friends in the same server as you. There are three servers in total, America, Europe, and of course, Asia.
-Genshin Impact takes place in a fantasy world called Teyvat, which is home to seven distinct nations with different element rulers which are are called gods. 
+- Genshin impact is an open-world action role-play game that allows players to control one of four characters in a party. During combat, switching characters can be done quickly. Co-op with friends is allowed but you can only play with friends in the same server as you. There are three servers in total, America, Europe, and of course, Asia.
+- Genshin Impact takes place in a fantasy world called Teyvat, which is home to seven distinct nations with different element rulers which are are called gods. 
 
 
-# Honkai Impact
+# **Honkai Impact**
 
 ![yuh](https://user-images.githubusercontent.com/99850315/156692219-d4518a94-ecc3-46b2-982f-148dfc7f8451.jpg)
 

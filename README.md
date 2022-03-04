@@ -1,4 +1,4 @@
-## HoYoverse Games 
+## **HoYoverse Games** 
 
 
 
@@ -14,7 +14,7 @@ note that each game updates every after at least 2 months
 
 ![1500x500](https://user-images.githubusercontent.com/99850315/156476296-ee3a7daf-846a-4211-8d62-cda2df2f8835.jpg)
 - Genshin impact, a free to play game with amazing animations and well done voice actors that work hard on each update, is an open-world action role-play game that allows players to control one of four characters in a party. During combat, switching characters can be done quickly. Co-op with friends is allowed but you can only play with friends in the same server as you. There are three servers in total, America, Europe, and of course, Asia.
-- Genshin Impact takes place in a fantasy world called "Teyvat", which is home to seven distinct nations with different element rulers which are are called gods. 
+- Genshin Impact takes place in a fantasy world called "Teyvat", which is home to seven distinct nations with different element rulers which are are called gods. The nations available at the moment are Mondstadt, Liyue, Inazuma. More nations will be available and advendturable in the near future for each update dives us into various character's lore. Each lore may help us in achieveing our goal in Teyvat. 
 
 
 # **Honkai Impact**

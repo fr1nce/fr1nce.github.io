@@ -34,7 +34,7 @@ note: each game updates every after at least 2 months
 - While solving cases, in the middle of problems, the player gets to interact with 4 men. Artem Wing, Vyn Ritcher, Marius von Hagen and Luke Pearce. Interaction helps the player and either of the four players to become close with each other.
 
 
-### More HoYoverse games are on plan and will be released soon. The more players playing the game helps the creators make the game become more eye catching and amazing than last updates.
+### More HoYoverse games are on the making and will be released soon. The more players playing the game helps the creators make the game become more eye catching and amazing than last updates.
 
 
 

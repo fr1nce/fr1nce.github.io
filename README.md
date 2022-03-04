@@ -4,12 +4,12 @@
 
 There are a few games made by HoYoverse that are now currently the trend to play these past years. At HoYoverse they are committed to creating immersive virtual world experiences for players around the world. 
 
-### HoYoverse was recently changed from miHoYo to its current name now.
+### HoYoverse was recently changed from miHoYo to its current name now!
 
 From here, we are to show you games that are quite popular from HoYoverse.
 
 ### GAMES BY HOYOVERSE:
-note that each game updates every after at least 2 months
+note: each game updates every after at least 2 months
 # **Genshin Impact**
 
 ![1500x500](https://user-images.githubusercontent.com/99850315/156476296-ee3a7daf-846a-4211-8d62-cda2df2f8835.jpg)

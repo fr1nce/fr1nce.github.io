@@ -8,7 +8,6 @@ There are a few games made by HoYoverse that are now currently the trend to play
 
 From here, we are to show you games that are quite popular from HoYoverse.
 
-```markdown
 GAMES BY HOYOVERSE:
 
 # Genshin Impact
@@ -23,8 +22,11 @@ GAMES BY HOYOVERSE:
 
 
 
+# Tears of Themis
 
-## HoYoverse games
+![tot](https://user-images.githubusercontent.com/99850315/156692810-f66f3df1-e471-4676-969b-36887de9d052.jpg)
+
+
 ### Header 3
 
 - Bulleted

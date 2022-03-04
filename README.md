@@ -42,11 +42,16 @@ note that each game updates every after at least 2 months
 
 
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fr1nce/fr1nce.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+
+
+
+
+
+
+
+
 source: https://www.bing.com/search?q=how+many+servers+are+in+genshin+impact&qs=n&form=QBRE&sp=-1&pq=how+many+servers+are+in+genshin+impac&sc=1-37&sk=&cvid=BDBEEFF674AB49B3B12D939897AEA3D9
 https://www.bing.com/search?q=honkai+impact+ddescription&qs=n&form=QBRE&sp=-1&pq=honkai+impact+ddescription&sc=0-26&sk=&cvid=5EBE07D2AE81460CB9BFACD163FF8B2B
 https://en.wikipedia.org/wiki/Tears_of_Themis#Gameplay

@@ -1,21 +1,35 @@
-## **HoYoverse Games** 
-made by: Francezka Gabrielle A. Dait of Gonzalez 9
+## **LINDOL** 
+made by: Francezka Gabrielle A. Dait of 10 Claver
 
 
-There are a few games made by HoYoverse that are now currently the trend to play these past years. At HoYoverse they are committed to creating immersive virtual world experiences for players around the world. 
+### Nakaranas ka na ba ng lindol? Ano ang  ginagawa mo tuwing lumilindol? Isa ka rin ba sa mga taong pumapanik at hindi alam ang gagawin sa tuwing ‘di mo inaasahan ang pag lindol? Kung gayon man, parehas tayo! Ang lindol ay hindi natin inaasahang mangyari, wala pang gadyet na nakakasabi at makaka alerto sa atin nito.w!
 
-### HoYoverse was recently changed from miHoYo to its current name now!
+Kapag lumilindol nakakabigay ito ng malaking pinsala sa ating buhay. Mga gusali ay natutumba, ang mga kalye ay nabibitak, nawawalan tayo ng maayos na daanan at kung sa iba naman, depende kung matibay ba o mahina ang struktura ng bahay, ay may nawawalan ng tirahan. 
+Ang ating lokasyon dito sa Pilipinas ay nabibilang sa lugar kung saan mataas ang pagkakataon na matamaan ng lindol, ang tawag rito ay ang Pacific Ring of Fire. It ay nasa ilalim ng dagat sa gilid ng Pacific Ocean kung saan maraming lindol at pagsabog ng bulkan ang nangyayari. Karamihan sa mga lindol sa mundo at mga aktibidad sa bulkan ay nangyayari sa paligid ng Ring of Fire.
+Hindi lamang ang pag nginginig ng lupa ang nangyayari tuwing lindol, marami pa itong epekto;
 
-From here, we are to show you games that are quite popular from HoYoverse.
 
-### GAMES BY HOYOVERSE:
-note: each game updates every after at least 2 months
-# **Genshin Impact**
+### ANO ANG NAGBUBUNGA NG LINDOL?
+## Sunog
+(https://pbs.twimg.com/media/C2YYgNwUAAUSvJl.jpg:large)
+Ang kalamidad na ito ay nakasisira ng pipa ng gasolina at de-kuryenteng cables, na ito nagiging sanhi ng pagkakalat ng apoy. Pinipigilan ng mga nasira na tubig ang mga apoy na napatupad. Ang pag sunog pa naman ay masyadong mabilis kumalat sa mga lungsod, lalo na sa may mahihirap na bahay ang lugar kung saan ang mga kahoy at gusali ay pangkaraniwan.
+## Tsunami
+Ang lindol sa pinaka baba ng dagat o malapit sa baybayin ay maaaring maging sanhi ng malaking alon.
+## Landslides 
+Madalas maging sanhi ng lupa ang pagguho ng lupa, lalo na sa matarik na lambak ng ilog at mga lugar na kung saan mahihina ang bato.
 
-![1500x500](https://user-images.githubusercontent.com/99850315/156476296-ee3a7daf-846a-4211-8d62-cda2df2f8835.jpg)
-- Genshin impact, a free to play game with amazing animations and well done voice actors that work hard on each update, is an open-world action role-play game that allows players to control one of four characters in a party. During combat, switching characters can be done quickly. Co-op with friends is allowed but you can only play with friends in the same server as you. There are three servers in total, America, Europe, and of course, Asia.
-- Genshin Impact takes place in a fantasy world called "Teyvat", which is home to seven distinct nations with different element rulers which are are called gods. The nations available at the moment are Mondstadt, Liyue, Inazuma. More nations will be available and advendturable in the near future for each update dives us into various character's lore. Each lore may help us in achieveing our goal in Teyvat. 
+## Ngayon na alam mo na ang mga pwedeng mangyari sa tuwing may mangyaring lindol, syempre gusto mo na ngayon maging handa, narito ang mga maaari mong alalahanin bago, tuwing, pagkatapos, at mga hindi mo dapat gawin kapag may lindol.
 
+# **Mga Dapat Gawin:**
+
+## Bago
+● Maghanda ng Emergency first aid supply kit. Siguraduhin na magagamit ito sa lahat ng oras.
+
+● Alamin ang mga panganib. Maging pamilyar sa mga evacuation centers na malapit sa tinitirahan.
+
+● Mag plano at mag praktis kung saan ba magkikita kita kapag nag hiwalayan tuwing may lindol, sa pamamagitan ng pagsasanay sa mga gagawin pag may lindol ay maaaring awtomatikong alam na ang gagawin kapag nag simula na ang pagyanig.
+
+● Siguraduhin ang mabibigat na kasangkapan sa bahay. Malaki, mabigat, o hindi matatag na mga bagay ay dapat ilagay sa mababang istante, malapit sa sahig, at malayo sa mga pintuan at makatakas na mga ruta.
 
 # **Honkai Impact**
 

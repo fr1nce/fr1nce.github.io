@@ -11,9 +11,10 @@ Hindi lamang ang pag nginginig ng lupa ang nangyayari tuwing lindol, marami pa i
 
 ### ANO ANG NAGBUBUNGA NG LINDOL?
 ## Sunog
-(https://pbs.twimg.com/media/C2YYgNwUAAUSvJl.jpg:large)
+![fire](https://user-images.githubusercontent.com/99850315/190612513-8357f581-3a3c-49ee-b13f-41f2d4db6a09.png)
 Ang kalamidad na ito ay nakasisira ng pipa ng gasolina at de-kuryenteng cables, na ito nagiging sanhi ng pagkakalat ng apoy. Pinipigilan ng mga nasira na tubig ang mga apoy na napatupad. Ang pag sunog pa naman ay masyadong mabilis kumalat sa mga lungsod, lalo na sa may mahihirap na bahay ang lugar kung saan ang mga kahoy at gusali ay pangkaraniwan.
 ## Tsunami
+
 Ang lindol sa pinaka baba ng dagat o malapit sa baybayin ay maaaring maging sanhi ng malaking alon.
 ## Landslides 
 Madalas maging sanhi ng lupa ang pagguho ng lupa, lalo na sa matarik na lambak ng ilog at mga lugar na kung saan mahihina ang bato.

@@ -32,21 +32,27 @@ Madalas maging sanhi ng lupa ang pagguho ng lupa, lalo na sa matarik na lambak n
 
 ● Siguraduhin ang mabibigat na kasangkapan sa bahay. Malaki, mabigat, o hindi matatag na mga bagay ay dapat ilagay sa mababang istante, malapit sa sahig, at malayo sa mga pintuan at makatakas na mga ruta.
 
-# **Honkai Impact**
+## Habang
 
-![yuh](https://user-images.githubusercontent.com/99850315/156692219-d4518a94-ecc3-46b2-982f-148dfc7f8451.jpg)
-- A free-to-play 3D action (originally mobile exclusive) developed and published by miHoYo, and later ported to MIcrosoft Windows. The game is notable for incorporating a variety of genres.
-- Honkai Impacts, also referred to as Honkai Eruptions, are large-scale Honkai disasters that coincide with birth of a Herrscher. 
-- Honkai Impacct also has players control a team of up to three characters, known as "Valkaryies", in real-time combat against various enemies. 
+● Gawin ang “duck, cover, and hold”
+
+● Manatiling kalmado at alerto sa mga bumabagsak na bagay sa maaaring maging sanhi ng pinsala.
+
+● Kapag nasa loob ng bahay, sa ilalim ng mesa takpan ang iyong ulo at leeg gamit ang isang braso o kamay, kapag walang mesa o gamit na pang kalasag, lumipat sa pasilyo o tumabi sa panloob na dingding.
+
+● Tuwing nasa labas ng bahay, bilisan na makahanap ng bukas na espasyo na malayo sa mga gusali, power lines, at anumang mga ibang estruktura na maaaring matabunan ka.
 
 
-# Tears of Themis
+## Pagkatapos
 
-![tot](https://user-images.githubusercontent.com/99850315/156692810-f66f3df1-e471-4676-969b-36887de9d052.jpg)
+● Suriin ang sarili at ang iba para sa kung pinsala, tumawag ng tulong kung kinakailangan.
 
-- Tears of Themis is a free-to-play **otome** adventure game developed and published also by the one and only miHoYo wcich has now switched its name to HoYoverse.
-- Tears of Themis has a number of different mechanics. The main story is delivered through visual novel format. Cases are analyzed by seaching through crimes for evidence, and interrogating NPC's who are involved. Every chapter ends with a trial in court in which the player must present evidence that proves their defendant innocent. 
-- While solving cases, in the middle of problems, the player gets to interact with 4 men. Artem Wing, Vyn Ritcher, Marius von Hagen and Luke Pearce. Interaction helps the player and either of the four players to become close with each other.
+● Magsagawa ng safety check. Tumingin sa paligid upang matiyak na ikaw ay hindi sa panganib mula sa iba pang mga panganib na sanhi ng lindol, tulad ng gas leaks o sunog.
+
+● Tignan ang mga kasangkapan sa bahay na naging maluwag at maaaring mahulog.
+
+● Kung mayroon kang access sa isang baterya na pinatatakbo ng radyo (marahil sa iyong sasakyan) o telebisyon, i-update ang iyong sarili sa pinakabagong impormasyon sa kagipitan/emergency.
+
 
 
 ### More HoYoverse games are on the making and will be released soon. The more players playing the game helps the creators make the game become more eye catching and amazing than last updates.

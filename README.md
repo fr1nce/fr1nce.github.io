@@ -23,7 +23,7 @@ Madalas maging sanhi ng lupa ang pagguho ng lupa, lalo na sa matarik na lambak n
 ## Ngayon na alam mo na ang mga pwedeng mangyari sa tuwing may mangyaring lindol, syempre gusto mo na ngayon maging handa, narito ang mga maaari mong alalahanin bago, tuwing, pagkatapos, at mga hindi mo dapat gawin kapag may lindol.
 
 # **Mga Dapat Gawin:**
-
+![bago png](https://user-images.githubusercontent.com/99850315/190881525-d524d38a-09d4-491c-9088-57a4b88e161d.jpg)
 ## Bago
 ● Maghanda ng Emergency first aid supply kit. Siguraduhin na magagamit ito sa lahat ng oras.
 

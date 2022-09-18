@@ -33,6 +33,8 @@ Madalas maging sanhi ng lupa ang pagguho ng lupa, lalo na sa matarik na lambak n
 
 ● Siguraduhin ang mabibigat na kasangkapan sa bahay. Malaki, mabigat, o hindi matatag na mga bagay ay dapat ilagay sa mababang istante, malapit sa sahig, at malayo sa mga pintuan at makatakas na mga ruta.
 
+
+![dch png](https://user-images.githubusercontent.com/99850315/190881624-cad763eb-7fac-489b-b1ce-9b7138b5c0f0.jpg)
 ## Habang
 
 ● Gawin ang “duck, cover, and hold”
@@ -45,6 +47,8 @@ Madalas maging sanhi ng lupa ang pagguho ng lupa, lalo na sa matarik na lambak n
 
 
 ## Pagkatapos
+
+
 
 ● Suriin ang sarili at ang iba para sa kung pinsala, tumawag ng tulong kung kinakailangan.
 

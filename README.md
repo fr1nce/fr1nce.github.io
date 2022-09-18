@@ -60,7 +60,7 @@ Madalas maging sanhi ng lupa ang pagguho ng lupa, lalo na sa matarik na lambak n
 ● Kung mayroon kang access sa isang baterya na pinatatakbo ng radyo (marahil sa iyong sasakyan) o telebisyon, i-update ang iyong sarili sa pinakabagong impormasyon sa kagipitan/emergency.
 
 
-# MGA HINDI DAPAT GAWIN
+# **MGA HINDI DAPAT GAWIN:**
 
 ● Iwasan ang tumatakbo sa iba pang mga kwarto habang nanginginig ang lupa.
 

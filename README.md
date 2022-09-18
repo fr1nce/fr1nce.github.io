@@ -49,8 +49,7 @@ Madalas maging sanhi ng lupa ang pagguho ng lupa, lalo na sa matarik na lambak n
 
 
 ## Pagkatapos
-
-
+![ltr png](https://user-images.githubusercontent.com/99850315/190881855-82bc02c6-ac57-40fc-a877-518f3c890f0a.jpg)
 
 ● Suriin ang sarili at ang iba para sa kung pinsala, tumawag ng tulong kung kinakailangan.
 
@@ -69,7 +68,7 @@ Madalas maging sanhi ng lupa ang pagguho ng lupa, lalo na sa matarik na lambak n
 
 ● Pagkatapos ng isang quake, huwag gumamit ng mga tugma o lighters na malapit sa mga kalan hanggang ikaw ay sigurado na wala na ng gas leaks.
 
-●
+
 
 
 

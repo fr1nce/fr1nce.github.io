@@ -17,6 +17,7 @@ Ang kalamidad na ito ay nakasisira ng pipa ng gasolina at de-kuryenteng cables, 
 ![tsunami](https://user-images.githubusercontent.com/99850315/190613104-376993f1-e917-4655-bb7b-4cc4a937c929.png)
 Ang lindol sa pinaka baba ng dagat o malapit sa baybayin ay maaaring maging sanhi ng malaking alon.
 ## Landslides 
+![landslide2 png](https://user-images.githubusercontent.com/99850315/190881316-2e41aaa9-faed-432a-b072-7b0227973624.jpg)
 Madalas maging sanhi ng lupa ang pagguho ng lupa, lalo na sa matarik na lambak ng ilog at mga lugar na kung saan mahihina ang bato.
 
 ## Ngayon na alam mo na ang mga pwedeng mangyari sa tuwing may mangyaring lindol, syempre gusto mo na ngayon maging handa, narito ang mga maaari mong alalahanin bago, tuwing, pagkatapos, at mga hindi mo dapat gawin kapag may lindol.

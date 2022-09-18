@@ -54,25 +54,37 @@ Madalas maging sanhi ng lupa ang pagguho ng lupa, lalo na sa matarik na lambak n
 ● Kung mayroon kang access sa isang baterya na pinatatakbo ng radyo (marahil sa iyong sasakyan) o telebisyon, i-update ang iyong sarili sa pinakabagong impormasyon sa kagipitan/emergency.
 
 
+# MGA HINDI DAPAT GAWIN
 
-### More HoYoverse games are on the making and will be released soon. The more players playing the game helps the creators make the game become more eye catching and amazing than last updates.
+● Iwasan ang tumatakbo sa iba pang mga kwarto habang nanginginig ang lupa.
 
+● Ang natitirang kalmado ay isang prayoridad kapag nakakaranas ng ganitong uri ng kalamidad. Hangga’t kayo ay pamilyar sa sariling kaligtasan protocol, ang pagpapanatiling kalmado ay marahal sa pinaka-mahalagang hakbang.
 
+● Pagkatapos ng isang quake, huwag gumamit ng mga tugma o lighters na malapit sa mga kalan hanggang ikaw ay sigurado na wala na ng gas leaks.
 
-
-
-
-
-
-
+●
 
 
 
 
+### Patuloy nating tandaan na maging alerto sa kahit anong oras dahil ang lindol ay isang hindi inaasahang kalamidad.
 
 
 
 
-source: https://www.bing.com/search?q=how+many+servers+are+in+genshin+impact&qs=n&form=QBRE&sp=-1&pq=how+many+servers+are+in+genshin+impac&sc=1-37&sk=&cvid=BDBEEFF674AB49B3B12D939897AEA3D9
-https://www.bing.com/search?q=honkai+impact+ddescription&qs=n&form=QBRE&sp=-1&pq=honkai+impact+ddescription&sc=0-26&sk=&cvid=5EBE07D2AE81460CB9BFACD163FF8B2B
-https://en.wikipedia.org/wiki/Tears_of_Themis#Gameplay
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mga Sanggunian: What to do and not to do during an earthquake | AccuWeather, Earthquake Precautions - What to Do Before an Earthquake | CEA (earthquakeauthority.com), what to do during an earthquake - Bing images, What to do BEFORE, DURING and AFTER an earthquake | PHIVOLCS (governmentph.com), Causes and Effects of Earthquakes (slideshare.net), What to Do in an Earthquake: Before, During, and After | Caltech Science Exchange
+pictures: https://pbs.twimg.com/media/C2YYgNwUAAUSvJl.jpg:large , https://images.janglo.net/uploads/cs5fe5cea736e918.55935193iUpXPAvLIrhjLETPhi3R6OrgHZPySF17lTq9mK.jpg , https://assets-cdn.kathmandupost.com/uploads/source/news/2020/opinion/leadMadhukarPostFilePhoto-1599720212.jpg , https://i5.walmartimages.com/asr/0bcb7e57-bc80-4df6-b68c-a27a8be6d0c7_1.02383e2bf27d07752a7bb263b83f22bd.jpeg 
+

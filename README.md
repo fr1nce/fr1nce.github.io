@@ -1,5 +1,5 @@
 ## **LINDOL** 
-made by: Francezka Gabrielle A. Dait of 10 Claver
+gawa ni: Francezka Gabrielle A. Dait of 10 Claver
 
 
 ### Nakaranas ka na ba ng lindol? Ano ang  ginagawa mo tuwing lumilindol? Isa ka rin ba sa mga taong pumapanik at hindi alam ang gagawin sa tuwing ‘di mo inaasahan ang pag lindol? Kung gayon man, parehas tayo! Ang lindol ay hindi natin inaasahang mangyari, wala pang gadyet na nakakasabi at makaka alerto sa atin nito.w!
